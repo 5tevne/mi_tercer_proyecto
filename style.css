@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/08/6f/a1/086fa113a24d27da7c2d5272e02e795f.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+button{font-family: 'Russo One', sans-serif;color: aquamarine;background-position: 14cqb;background-color:rgba(0, 0, 0, 0.507);border-color: blueviolet;}
+h1{font-family: 'Courgette', cursive;color: aliceblue;}
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formulario{
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.212);
+    height: 50vh;
+}
+.lottie{
+    background-color: rgba(0, 0, 0, 0.363);
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+label{color: aqua;}
